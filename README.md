@@ -1,6 +1,5 @@
-### Smart-Route-Navigator-A-Traffic-Aware-Route-Planning-System-15-dec-2024
+### NavSmart: Intelligent Route Planner
 
-### Smart-Route-Navigator-A-Traffic-Aware-Route-Planning-System
 
 #### **Overview**
 The project is designed to simulate a traffic management and route optimization system for a set of cities and roads, incorporating traffic conditions to determine the most efficient route for travel. The system allows for user login, route selection, and route calculation considering both normal and traffic-affected conditions.
